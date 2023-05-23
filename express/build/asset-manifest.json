@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a81d1617.css",
+    "main.js": "/static/js/main.167b44f0.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/moving.gif": "/static/media/moving.298a950629d4160823f4.gif",
+    "static/media/blockchain.jpeg": "/static/media/blockchain.7ce9c1e5eb333341b01f.jpeg",
+    "static/media/error.svg": "/static/media/error.afeb32191f1f4711462f1d50b8008919.svg",
+    "static/media/map.png": "/static/media/map.c4f2a0ec24efa77dc140.png",
+    "static/media/logo-etherscan.svg": "/static/media/logo-etherscan.34bf531fe002695e5320eea9f3981b09.svg",
+    "static/media/brightness.svg": "/static/media/brightness.12f296fd7b560a2147b926f2485ed339.svg",
+    "static/media/paste.svg": "/static/media/paste.92e3ee028c59251795c5d96c2f668fa1.svg",
+    "static/media/coin.svg": "/static/media/coin.4dfcff5ef271a9c46d959d20ad66aa52.svg",
+    "static/media/circle-user.svg": "/static/media/circle-user.0aca20c575063734116eae863a3e524b.svg",
+    "index.html": "/index.html",
+    "static/media/fuel-pump.svg": "/static/media/fuel-pump.aeddc10671206338a30c3d00eaf2d337.svg",
+    "static/media/ethereum-original.svg": "/static/media/ethereum-original.cf8aa5e7c7ee6fe226057d2329059293.svg",
+    "static/media/unlock.svg": "/static/media/unlock.ad28a59d77fcb8e2757180c7b1a32eb0.svg",
+    "static/media/file.svg": "/static/media/file.eedd351403def81f052d71c36fd39078.svg",
+    "static/media/box.svg": "/static/media/box.b39015f3553503dbf069d1ef27bbf2a1.svg",
+    "static/media/minecart.svg": "/static/media/minecart.4b321b4553ac386c14bb5688d10cdc57.svg",
+    "static/media/wallet.svg": "/static/media/wallet.842da1ee5d44d0dfbd0359d794f11bf6.svg",
+    "static/media/down.svg": "/static/media/down.c84a0bfbda313288feb7aed6b2c86394.svg",
+    "static/media/right.svg": "/static/media/right.900f15a98937c875e6fa6bc8de335fdc.svg",
+    "static/media/left.svg": "/static/media/left.2b904bc4fecd531afcb5e2f5b4dd6538.svg",
+    "static/media/up.svg": "/static/media/up.b25db610e290909dd9d6b9ce64db41c3.svg",
+    "static/media/search.svg": "/static/media/search.6849374c1924c1be0a926ce9e72581f8.svg",
+    "static/media/searchIcon.svg": "/static/media/searchIcon.86184105bda0dd4e195c16cdf8ca17fa.svg",
+    "main.a81d1617.css.map": "/static/css/main.a81d1617.css.map",
+    "main.167b44f0.js.map": "/static/js/main.167b44f0.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a81d1617.css",
+    "static/js/main.167b44f0.js"
+  ]
+}
