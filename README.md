@@ -1,12 +1,12 @@
 # Clonecoding [Etherscan]
 
 React + Express server 활용한 Etherscan 웹사이트 클론코딩
-
+<br/>
 ## 📚 기술 stack
   <img src="https://img.shields.io/badge/React-00599C?style=flat-square&logo=react&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-
+<br/>
 ## 🖥️ 프로젝트 소개
 
 Etherscan 웹사이트를 통해 거래(transactions), 블록(block), 지갑주소(address), 스마트 계약(smart contract) 및 기타 온체인 데이터를 검색할 수 있어 블록체인에 대해 배운 것을 토대로 클론 코딩한 프로젝트 입니다.
