@@ -17,12 +17,6 @@ Etherscan 웹사이트를 통해 거래(transactions), 블록(block), 지갑주�
 🔸 23.02.16일 - 23.02.24일
 <br>
 
-### ⚙️ 개발 환경
-
--   Front-End : <img alt="React" src ="https://img.shields.io/badge/library-react-blue?style=plastic&logo=react"/>
-    <br>
--   Back-End : <img alt="Node" src ="https://img.shields.io/badge/framework-node.js-green?style=plastic&logo=node.js"/> + <img alt="Express" src ="https://img.shields.io/badge/framework-Express.js-white?style=plastic&logo=express"/>
-    <br>
 
 ## 📌 주요 기능
 
