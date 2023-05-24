@@ -19,7 +19,7 @@ Etherscan 웹사이트를 통해 거래(transactions), 블록(block), 지갑주�
 
 ### ⚙️ 개발 환경
 
--   Front-End : <img alt="React" src ="https://img.shields.io/badge/framework-react-blue?style=plastic&logo=react"/>
+-   Front-End : <img alt="React" src ="https://img.shields.io/badge/library-react-blue?style=plastic&logo=react"/>
     <br>
 -   Back-End : <img alt="Node" src ="https://img.shields.io/badge/framework-node.js-green?style=plastic&logo=node.js"/> + <img alt="Express" src ="https://img.shields.io/badge/framework-Express.js-white?style=plastic&logo=express"/>
     <br>
