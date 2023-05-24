@@ -39,4 +39,4 @@ Etherscan 웹사이트를 통해 거래(transactions), 블록(block), 지갑주�
 
 #### 검색 결과 페이지
 
--   검색 결과 없을 경우의 페이지
+-   블록 넘버, 트랜잭션 주소 검색 결과 [Linked search]
